@@ -14,8 +14,8 @@ I'm always trying something new for the thrill
 Currently working on Artificial Intelligence using Python and learning REACTJS
 
 ### Find me somewhere 🔎🌍
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/hackster254)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/c_karira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my_world-z3rmou.vertex360.co)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@hackster.origin)  
 
-[![](https://www.google.com/search?q=twitter+image+logo&rlz=1C1CHBD_enKE911KE911&sxsrf=ALeKk02pIYI3UjZBv2v1LBcvigoHGThJVg:1604929509511&tbm=isch&source=iu&ictx=1&fir=IS3Oc1uCPBqJxM%252C7Unn1F_0njTKXM%252C_&vet=1&usg=AI4_-kR3BgSQt-eJIH8sxK_e39uzaGVDzQ&sa=X&ved=2ahUKEwi-4LaqzPXsAhUJCsAKHTnjD3QQ9QF6BAgKEDY#imgrc=IS3Oc1uCPBqJxM)](https://twitter.com)
 [Github](github.com/hackster254)
 [Medium](https://medium.com/@hackster.origin)
 [Twitter](https://twitter.com/c_karira)
