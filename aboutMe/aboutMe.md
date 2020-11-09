@@ -12,4 +12,5 @@ I'm always trying something new for the thrill
 
 Currently working on Artificial Intelligence using Python and learning REACTJS
 
-### Find me somewhere
+### Find me somewhere 🔎🌍
+
