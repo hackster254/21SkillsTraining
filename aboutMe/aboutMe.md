@@ -28,5 +28,5 @@ Currently working on Artificial Intelligence using Python and learning REACTJS
 
 ### Languages
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](Add skills to about me file) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>]() 
 
