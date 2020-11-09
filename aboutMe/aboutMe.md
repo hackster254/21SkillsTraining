@@ -28,7 +28,7 @@ Currently working on Artificial Intelligence using Python and learning REACTJS
 
 ### Languages
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](html) 
+[<img src='https://img.icons8.com/color/48/000000/html-5.png' alt='html5' height='40'>](html) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>]() 
 [<img src='https://img.icons8.com/color/48/000000/react-native.png' alt='react' height='40'>]() 
 [<img src='https://img.icons8.com/color/48/000000/mongodb.png' alt='mongodb' height='40'>]() 
