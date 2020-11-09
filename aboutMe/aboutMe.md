@@ -15,6 +15,7 @@ Currently working on Artificial Intelligence using Python and learning REACTJS
 
 ### Find me somewhere 🔎🌍
 
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
 [Github](github.com/hackster254)
 [Medium](https://medium.com/@hackster.origin)
 [Twitter](https://twitter.com/c_karira)
