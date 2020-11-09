@@ -18,3 +18,5 @@ Currently working on Artificial Intelligence using Python and learning REACTJS
 [Medium](https://medium.com/@hackster.origin)
 [Twitter](https://twitter.com/c_karira)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+
