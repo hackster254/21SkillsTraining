@@ -13,6 +13,11 @@ I'm always trying something new for the thrill
 
 Currently working on Artificial Intelligence using Python and learning REACTJS
 
+- 🔭 I’m currently working on web applications 
+- 🌱 I’m currently learning Artificial intelligence 
+- 💬 Ask me about anything tech 
+- ⚡ Fun fact: In many other programming languages you have to put semicolon(;) in the end of a statement. In JavaScript you can start with a semicolon(;). 
+
 ### Find me somewhere 🔎🌍
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/hackster254)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/c_karira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my_world-z3rmou.vertex360.co)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@hackster.origin)  
 
