@@ -1,4 +1,5 @@
 ### Hi, I'm Charles Karira! 👨‍💻
+[![SC2 Video](doc/SC2_youtube.gif)](https://github.com/hackster254/21SkillsTraining/blob/week-four-assignment/aboutMe/MY%20BANNER.mp4)
 #### About me:
 
 I work as a web developer 
