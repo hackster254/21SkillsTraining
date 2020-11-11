@@ -3,13 +3,13 @@
 
 #### Bio:
 
-I am 4th year student pursuing degree in B. Sc. Electronics and Computer Engineering at Jomo Kenyatta University of Agriculture and Technology. I am very passionate about tech having recently graduated from Huawei Seeds for The Future Program 2020. Currently I'm pursuing Artificial Intelligence through AppsLab KE 21CSkills Program. I love drones and robotics
+I am 4th year student pursuing degree in B. Sc. Electronics and Computer Engineering at Jomo Kenyatta University of Agriculture and Technology. I am very passionate about tech having recently graduated from **Huawei Seeds for The Future Program 2020**. Currently I'm pursuing Artificial Intelligence through **AppsLab KE 21CSkills Program**. I love drones and robotics and games 🎮.
 
 Looking for a developer? Contact me on my [Website](https://my_world-z3rmou.vertex360.co/) 
 
 > "I could either watch it happen or be a part of it."  - Elon Musk
 
-I'm always trying something new for the thrill
+I'm always trying something new for the thrill.
 
 ### What I'm focusing on 🦸‍♂️
 
