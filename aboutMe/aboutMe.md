@@ -15,8 +15,8 @@ I'm always trying something new for the thrill.
 
 Currently working on Artificial Intelligence using Python and learning REACTJS
 
-- 🔭 I’m currently working on web applications 
-- 🌱 I’m currently learning Artificial intelligence 
+- 🔭 I’m currently working on **web applications and APIs **
+- 🌱 I’m currently learning **Artificial intelligence**
 - 💬 Ask me about anything tech 
 - ⚡ Fun fact: Yet to meet a worthy PlayStation FIFA opponent!
 
