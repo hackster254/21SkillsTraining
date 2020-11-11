@@ -26,7 +26,7 @@ Currently working on Artificial Intelligence using Python and learning REACTJS
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hackster254)
 
-### Languages
+### Skills and Languages
 
 [<img src='https://img.icons8.com/color/48/000000/html-5.png' alt='html5' height='40'>](html) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>]() 
