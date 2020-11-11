@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/hackster254/21SkillsTraining/blob/week-four-assignment/aboutMe/banner.png)
 ### Hi, I'm Charles Karira! 👨‍💻
 
-#### About me:
+#### Bio:
 
 I am 4th year student pursuing degree in B. Sc. Electronics and Computer Engineering at Jomo Kenyatta University of Agriculture and Technology. I am very passionate about tech having recently graduated from Huawei Seeds for The Future Program 2020. Currently I'm pursuing Artificial Intelligence through AppsLab KE 21CSkills Program. I love drones and robotics
 
